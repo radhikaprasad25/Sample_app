@@ -1,0 +1,4 @@
+.vagrant/
+sample_app/tmp
+sample_app/log
+sample_app/db/*.sqlite3
